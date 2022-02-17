@@ -1,4 +1,4 @@
-# This Is My Javascript 2nd Project for Github
+# Javascript 2nd Project for Github
 
 # Razibul Hasan
 
