@@ -1,4 +1,4 @@
-# Javascript Random Color Generate Project For Javascript
+# Javascript Random Color Generate Project For Github
 
 ### Click to Color Change And Button Background Color Change
 
